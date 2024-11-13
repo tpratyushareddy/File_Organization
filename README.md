@@ -1,2 +1,3 @@
 # File_Organization
-Understanding Shell Scripting regarding file org
+Understanding Shell Scripting regarding file orgnization
+
